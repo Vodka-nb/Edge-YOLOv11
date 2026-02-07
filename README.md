@@ -10,8 +10,6 @@ This repository corresponds directly to the manuscript:  "A Lightweight and Occl
 
 🌱 Code archived with DOI via Zenodo:https://doi.org/10.5281/zenodo.18506919.
 
-ℹ️ *Note: "Edge-YOLOv11" denotes our custom lightweight architecture inspired by YOLO series principles. It is not an official Ultralytics YOLO version (current public release: YOLOv10). Naming reflects our model's evolution within this research context.*  
-
 🌟 Why Edge-YOLOv11?  
 Designed specifically for real-world orchard challenges:  
 ✅ Lightweight (6.35 MB) – Runs efficiently on Jetson Orin Nano (26.52 FPS, 135 MB GPU memory)  
@@ -50,12 +48,12 @@ Litchi    90.1%     85.5%
 Tomato    88.7%     83.2%      
 
 Citrus    86.9%     81.5%      
-(Full benchmark details in manuscript Section 4.3)  
+
 
 📚 Project Structure  
 Edge-YOLOv11/  
 ├── Edge-YOLOv11/               # Core model implementation  
-├── data/                   # Dataset configs (litchi_uav.yaml, etc.)  
+├── data/                  
 ├── detect/                  
 ├── engine/             
 ├── solutions/      
