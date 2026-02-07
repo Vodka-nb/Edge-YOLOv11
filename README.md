@@ -8,7 +8,7 @@ This repository corresponds directly to the manuscript:  "A Lightweight and Occl
 ✨ If you use this code in your research, please cite our work (see Citation below).  
 🌍 Code and dataset DOI will be permanently archived upon publication. 
 
-🌱 Code archived with DOI via Zenodo:[https://doi.org/10.5281/zenodo.18506919.]
+🌱 Code archived with DOI via Zenodo:[https://doi.org/10.5281/zenodo.18514495]
 
 🌟 Why Edge-YOLOv11?  
 Designed specifically for real-world orchard challenges:  
@@ -72,7 +72,7 @@ If this work benefits your research, please cite our manuscript:
   journal={The Visual Computer},
   year={2025},
   note={Under review},
-  doi={[10.5281/zenodo.18506919]}  % Update upon publication
+  doi={[10.5281/zenodo.18514495]} 
 }
   
 🙏Your citation supports open science and acknowledges the effort behind this work.  
