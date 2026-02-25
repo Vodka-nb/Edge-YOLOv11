@@ -1,11 +1,4 @@
-🌿 Edge-YOLOv11: Lightweight & Occlusion-Aware Fruit Detection for UAV Agriculture  
-  
-⚠️ **Official implementation of the manuscript submitted to *The Visual Computer***  
 
-📌 Important Notice  
-This repository corresponds directly to the manuscript:  "A Lightweight and Occlusion-Aware Framework for UAV-Based Fruit Detection in Dense Canopy Environments"  
-**Submitted toThe Visual Computer**  
-✨ If you use this code in your research, please cite our work (see Citation below).  
 🌍 Code and dataset DOI will be permanently archived upon publication. 
 
 🌱 Code archived with DOI via Zenodo:[https://doi.org/10.5281/zenodo.18514495]
@@ -62,21 +55,7 @@ Edge-YOLOv11/
 ├── deploy/      
 ├── v11/      
 └── README.md               # You are here!  
-
-
-📝 Citation  
-If this work benefits your research, please cite our manuscript:  
-@article{Author2024EdgeYOLOv11,
-  title={A Lightweight and Occlusion-Aware Framework for UAV-Based Fruit Detection in Dense Canopy Environments},
-  author={Hongxing Peng, Haopei Xie†, Weijia Li†, Huanai Liu, Ximing Li*},
-  journal={The Visual Computer},
-  year={2025},
-  note={Under review},
-  doi={[10.5281/zenodo.18514495]} 
-}
   
-🙏Your citation supports open science and acknowledges the effort behind this work.  
-
 
 📜 License  
 MIT License – See LICENSE for details.  Academic use encouraged. For commercial applications, please contact authors.  
