@@ -2,6 +2,7 @@
 🌍 Code and dataset DOI will be permanently archived upon publication. 
 
 🌱 Code archived with DOI via Zenodo:[https://doi.org/10.5281/zenodo.18514495]
+    Dataset with DOI via Zenodo: [https://doi.org/10.5281/zenodo.19364014]
 
 🌟 Why Edge-YOLOv11?  
 Designed specifically for real-world orchard challenges:  
